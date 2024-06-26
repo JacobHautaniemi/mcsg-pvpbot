@@ -8,3 +8,10 @@ The bot uses "say commands" to join the same lobby as you. Eg; type into chat "s
 The bot does not open chests and I will not be contributing to this project any more, so instead, op bot and it will give itself a wooden sword and some armor on spawn and focus on hunting players. 
 
 To use, have node installed and run "node mcsgbot.js"
+
+This project has the following dependencies:
+node
+mineflayer
+mineflayer-pvp
+mineflayer-pathfinder
+mineflayer-armor-manager
