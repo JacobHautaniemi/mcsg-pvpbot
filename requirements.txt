@@ -1,0 +1,4 @@
+mineflayer
+mineflayer-pvp
+mineflayer-pathfinder
+mineflayer-armor-manager
