@@ -10,8 +10,13 @@ The bot does not open chests and I will not be contributing to this project any 
 To use, have node installed and run "node mcsgbot.js"
 
 This project has the following dependencies:
+
 node
+
 mineflayer
+
 mineflayer-pvp
+
 mineflayer-pathfinder
+
 mineflayer-armor-manager
