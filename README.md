@@ -20,3 +20,5 @@ mineflayer-pvp
 mineflayer-pathfinder
 
 mineflayer-armor-manager
+
+These can be installed using 'pip install -r requirements.txt'
