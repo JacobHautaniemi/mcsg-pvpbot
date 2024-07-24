@@ -21,4 +21,4 @@ mineflayer-pathfinder
 
 mineflayer-armor-manager
 
-These can be installed using 'pip install -r requirements.txt'
+These can be installed using 'npm install -r requirements.txt'
